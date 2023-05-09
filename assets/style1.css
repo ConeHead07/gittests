@@ -15,3 +15,6 @@ body {
 .feat.branch-03-after-1st-merge {
   margin: .5rem;
 }
+.feat.branch-05 {
+  border: 1 solid violet;
+}
