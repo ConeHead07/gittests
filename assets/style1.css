@@ -6,3 +6,12 @@ body {
 .feat.branch-01 {
   border: 1px solid gray;
 }
+.feat.branch-02 {
+  border: 1 dotted green;
+}
+.feat.branch-03 {
+  border: 1 dashed blue;
+}
+.feat.branch-03-after-1st-merge {
+  margin: .5rem;
+}
